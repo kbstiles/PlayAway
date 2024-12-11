@@ -1,0 +1,207 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Manager Home">
+		<param name="Local" value="ManagerHeadingManagerHome.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Inventory">
+			<param name="Local" value="ManagerHomeTopic1Inventory.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Managers">
+			<param name="Local" value="ManagerHomeTopic2Managers.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Customers">
+			<param name="Local" value="ManagerHomeTopic3Customers.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="POS">
+			<param name="Local" value="ManagerHomeTopic4POS.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Discount/Promo Code">
+			<param name="Local" value="ManagerHomeTopic5Discounts.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Sales Reports">
+			<param name="Local" value="ManagerHomeTopic6SalesReports.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Logout">
+			<param name="Local" value="ManagerHomeTopic7Logout.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Inventory">
+		<param name="Local" value="ManagerHeadingInventory.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Inventory Display and Selection">
+			<param name="Local" value="InventoryTopic1InventorySelection.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Add Item">
+			<param name="Local" value="InventoryTopic2AddItem.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Modify Item">
+			<param name="Local" value="InventoryTopic3ModifyItem.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Remove Item">
+			<param name="Local" value="InventoryTopic4RemoveItem.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Print Inventory">
+			<param name="Local" value="InventoryTopic5PrintInventory.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Main Menu">
+			<param name="Local" value="InventoryTopic6MainMenu.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Managers">
+		<param name="Local" value="ManagerHeadingManagers.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Manager Display and Selection">
+			<param name="Local" value="ManagersTopic1ManagerSelection.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Add Manager">
+			<param name="Local" value="ManagersTopic2AddManager.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Modify Manager">
+			<param name="Local" value="ManagersTopic3ModifyManager.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Remove Manager">
+			<param name="Local" value="ManagersTopic4RemoveManager.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Print Managers">
+			<param name="Local" value="ManagersTopic5PrintManagers.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Main Menu">
+			<param name="Local" value="ManagersTopic6MainMenu.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Customers">
+		<param name="Local" value="ManagerHeadingCustomers.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Customer Display and Selection">
+			<param name="Local" value="CustomersTopic1CustomerSelection.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Add Customer">
+			<param name="Local" value="CustomersTopic2AddCustomer.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Modify Customer">
+			<param name="Local" value="CustomersTopic3ModifyCustomer.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Remove Customer">
+			<param name="Local" value="CustomersTopic4RemoveCustomer.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Print Customers">
+			<param name="Local" value="CustomersTopic5PrintCustomers.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Main Menu">
+			<param name="Local" value="CustomersTopic6MainMenu.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="POS">
+		<param name="Local" value="ManagerHeadingPOS.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Customer Search and Reset">
+			<param name="Local" value="POSTopic1CustomerSearchReset.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Use Customer">
+			<param name="Local" value="POSTopic2UseCustomer.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Main Menu">
+			<param name="Local" value="POSTopic3MainMenu.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Discount/Promo Codes">
+		<param name="Local" value="ManagerHeadingCodes.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Code Display and Selection">
+			<param name="Local" value="CodesTopic1CodeSelection.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Add Code">
+			<param name="Local" value="CodesTopic2AddCode.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Modify Code">
+			<param name="Local" value="CodesTopic3ModifyCode.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Remove Code">
+			<param name="Local" value="CodesTopic4RemoveCode.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Sales Reports">
+		<param name="Local" value="ManagerHeadingSalesReports.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Customer Search and Reset">
+			<param name="Local" value="SalesTopic1CustomerSearchReset.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Time Frame">
+			<param name="Local" value="SalesTopic2TimeFrame.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Print Sales">
+			<param name="Local" value="SalesTopic3PrintSales.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Main Menu">
+			<param name="Local" value="SalesTopic4MainMenu.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Customer Display and Selection">
+			<param name="Local" value="SalesTopic5CustomerSelection.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Sales Display">
+			<param name="Local" value="SalesTopic6SalesDisplay.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Start Date">
+			<param name="Local" value="SalesTopic7StartDate.htm">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

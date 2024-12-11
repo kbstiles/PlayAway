@@ -1,0 +1,60 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Manager.chm
+Contents file=ManagerView.hhc
+Default topic=ManagerHeadingManagerHome.htm
+Display compile progress=No
+Language=0x409 English (United States)
+Title=Manager View Help File
+
+
+[FILES]
+CodesTopic1CodeSelection.htm
+CodesTopic2AddCode.htm
+CodesTopic3ModifyCode.htm
+CodesTopic4RemoveCode.htm
+CustomersTopic1CustomerSelection.htm
+CustomersTopic2AddCustomer.htm
+CustomersTopic3ModifyCustomer.htm
+CustomersTopic4RemoveCustomer.htm
+CustomersTopic5PrintCustomers.htm
+CustomersTopic6MainMenu.htm
+InventoryTopic1InventorySelection.htm
+InventoryTopic2AddItem.htm
+InventoryTopic3ModifyItem.htm
+InventoryTopic4RemoveItem.htm
+InventoryTopic5PrintInventory.htm
+InventoryTopic6MainMenu.htm
+ManagerHeadingCodes.htm
+ManagerHeadingCustomers.htm
+ManagerHeadingInventory.htm
+ManagerHeadingManagerHome.htm
+ManagerHeadingManagers.htm
+ManagerHeadingPOS.htm
+ManagerHeadingSalesReports.htm
+ManagerHomeTopic1Inventory.htm
+ManagerHomeTopic2Managers.htm
+ManagerHomeTopic3Customers.htm
+ManagerHomeTopic4POS.htm
+ManagerHomeTopic5Discounts.htm
+ManagerHomeTopic6SalesReports.htm
+ManagerHomeTopic7Logout.htm
+ManagersTopic1ManagerSelection.htm
+ManagersTopic2AddManager.htm
+ManagersTopic3ModifyManager.htm
+ManagersTopic4RemoveManager.htm
+ManagersTopic5PrintManagers.htm
+ManagersTopic6MainMenu.htm
+POSTopic1CustomerSearchReset.htm
+POSTopic2UseCustomer.htm
+POSTopic3MainMenu.htm
+SalesTopic1CustomerSearchReset.htm
+SalesTopic2TimeFrame.htm
+SalesTopic3PrintSales.htm
+SalesTopic4MainMenu.htm
+SalesTopic5CustomerSelection.htm
+SalesTopic6SalesDisplay.htm
+SalesTopic7StartDate.htm
+
+[INFOTYPES]
+

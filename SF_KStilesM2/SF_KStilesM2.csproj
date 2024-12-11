@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <ContentSQLiteInteropFiles>true</ContentSQLiteInteropFiles>
+    <CopySQLiteInteropFiles>false</CopySQLiteInteropFiles>
+    <CleanSQLiteInteropFiles>false</CleanSQLiteInteropFiles>
+    <CollectSQLiteInteropFiles>false</CollectSQLiteInteropFiles>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{93EEC803-366E-4A6C-8404-9820938325C0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SF_KStilesM2</RootNamespace>
+    <AssemblyName>SF_KStilesM2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>newPlayAwayLogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'All Configs|AnyCPU'">
+    <OutputPath>bin\All Configs\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.2.1.35\lib\net461\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLitePCLRaw.core, Version=2.1.10.2445, Culture=neutral, PublicKeyToken=1488e028ca7ab535, processorArchitecture=MSIL">
+      <HintPath>..\packages\SQLitePCLRaw.core.2.1.10\lib\netstandard2.0\SQLitePCLRaw.core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.SQLite, Version=1.0.118.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsCalculations.cs" />
+    <Compile Include="clsCategory.cs" />
+    <Compile Include="clsHTML.cs" />
+    <Compile Include="clsImage.cs" />
+    <Compile Include="clsLogon.cs" />
+    <Compile Include="clsOrderDetails.cs" />
+    <Compile Include="clsOrders.cs" />
+    <Compile Include="clsSQL.cs" />
+    <Compile Include="clsValidation.cs" />
+    <Compile Include="clsDiscount.cs" />
+    <Compile Include="frmCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCart.Designer.cs">
+      <DependentUpon>frmCart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCartPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCartPOS.Designer.cs">
+      <DependentUpon>frmCartPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCodes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCodes.Designer.cs">
+      <DependentUpon>frmCodes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreateAccount.Designer.cs">
+      <DependentUpon>frmCreateAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomers.Designer.cs">
+      <DependentUpon>frmCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInventory.Designer.cs">
+      <DependentUpon>frmInventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogon.Designer.cs">
+      <DependentUpon>frmLogon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManagerHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManagerHome.Designer.cs">
+      <DependentUpon>frmManagerHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManagers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManagers.Designer.cs">
+      <DependentUpon>frmManagers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPasswordReset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPasswordReset.Designer.cs">
+      <DependentUpon>frmPasswordReset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPOS.Designer.cs">
+      <DependentUpon>frmPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalesReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalesReports.Designer.cs">
+      <DependentUpon>frmSalesReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSettings.Designer.cs">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShop.Designer.cs">
+      <DependentUpon>frmShop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShopPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShopPOS.Designer.cs">
+      <DependentUpon>frmShopPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCart.resx">
+      <DependentUpon>frmCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCartPOS.resx">
+      <DependentUpon>frmCartPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCodes.resx">
+      <DependentUpon>frmCodes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreateAccount.resx">
+      <DependentUpon>frmCreateAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomers.resx">
+      <DependentUpon>frmCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInventory.resx">
+      <DependentUpon>frmInventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogon.resx">
+      <DependentUpon>frmLogon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManagerHome.resx">
+      <DependentUpon>frmManagerHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManagers.resx">
+      <DependentUpon>frmManagers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPasswordReset.resx">
+      <DependentUpon>frmPasswordReset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPOS.resx">
+      <DependentUpon>frmPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalesReports.resx">
+      <DependentUpon>frmSalesReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSettings.resx">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShop.resx">
+      <DependentUpon>frmShop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShopPOS.resx">
+      <DependentUpon>frmShopPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="bin\Help\Logon.hhp" />
+    <None Include="bin\Help\LogonView.hhc" />
+    <None Include="bin\Help\Manager.hhp" />
+    <None Include="bin\Help\ManagerView.hhc" />
+    <None Include="bin\Help\Shop.hhp" />
+    <None Include="bin\Help\ShopView.hhc" />
+    <None Include="Logon.chm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Manager.chm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config" />
+    <Content Include="bin\Help\CartTopic10ModifyQuantity.htm" />
+    <Content Include="bin\Help\CartTopic1OrderList.htm" />
+    <Content Include="bin\Help\CartTopic2ContinueShopping.htm" />
+    <Content Include="bin\Help\CartTopic3Checkout.htm" />
+    <Content Include="bin\Help\CartTopic4RemoveItem.htm" />
+    <Content Include="bin\Help\CartTopic5ClearCart.htm" />
+    <Content Include="bin\Help\CartTopic6DiscountCode.htm" />
+    <Content Include="bin\Help\CartTopic7CCNum.htm" />
+    <Content Include="bin\Help\CartTopic8CCV.htm" />
+    <Content Include="bin\Help\CartTopic9Exp.htm" />
+    <Content Include="bin\Help\CodesTopic1CodeSelection.htm" />
+    <Content Include="bin\Help\CodesTopic2AddCode.htm" />
+    <Content Include="bin\Help\CodesTopic3ModifyCode.htm" />
+    <Content Include="bin\Help\CodesTopic4RemoveCode.htm" />
+    <Content Include="bin\Help\CreateAccountTopic1FirstLastAddress.htm" />
+    <Content Include="bin\Help\CreateAccountTopic2CityZipStateEmailPhone.htm" />
+    <Content Include="bin\Help\CreateAccountTopic3ValidUsernamePassword.htm" />
+    <Content Include="bin\Help\CreateAccountTopic4ChallengeQuestionAnswers.htm" />
+    <Content Include="bin\Help\CreateAccountTopic5ClearPage.htm" />
+    <Content Include="bin\Help\CreateAccountTopic6Back.htm" />
+    <Content Include="bin\Help\CreateAccountTopic7Next.htm" />
+    <Content Include="bin\Help\CustomersTopic1CustomerSelection.htm" />
+    <Content Include="bin\Help\CustomersTopic2AddCustomer.htm" />
+    <Content Include="bin\Help\CustomersTopic3ModifyCustomer.htm" />
+    <Content Include="bin\Help\CustomersTopic4RemoveCustomer.htm" />
+    <Content Include="bin\Help\CustomersTopic5PrintCustomers.htm" />
+    <Content Include="bin\Help\CustomersTopic6MainMenu.htm" />
+    <Content Include="bin\Help\ForgotPasswordTopic1Username.htm" />
+    <Content Include="bin\Help\ForgotPasswordTopic2ChallengeQuestions.htm" />
+    <Content Include="bin\Help\ForgotPasswordTopic3ChallengeAnswers.htm" />
+    <Content Include="bin\Help\ForgotPasswordTopic4PasswordChange.htm" />
+    <Content Include="bin\Help\ForgotPasswordTopic5ClearPage.htm" />
+    <Content Include="bin\Help\ForgotPasswordTopic6Back.htm" />
+    <Content Include="bin\Help\ForgotPasswordTopic7NextSubmit.htm" />
+    <Content Include="bin\Help\HeadingCreateAccount.htm" />
+    <Content Include="bin\Help\HeadingForgotPassword.htm" />
+    <Content Include="bin\Help\HeadingLogonInput.htm" />
+    <Content Include="bin\Help\HeadingSettings.htm" />
+    <Content Include="bin\Help\InventoryTopic1InventorySelection.htm" />
+    <Content Include="bin\Help\InventoryTopic2AddItem.htm" />
+    <Content Include="bin\Help\InventoryTopic3ModifyItem.htm" />
+    <Content Include="bin\Help\InventoryTopic4RemoveItem.htm" />
+    <Content Include="bin\Help\InventoryTopic5PrintInventory.htm" />
+    <Content Include="bin\Help\InventoryTopic6MainMenu.htm" />
+    <Content Include="bin\Help\LogonTopic1Login.htm" />
+    <Content Include="bin\Help\LogonTopic2Settings.htm" />
+    <Content Include="bin\Help\LogonTopic3Peek.htm" />
+    <Content Include="bin\Help\LogonTopic4ForgotPassword.htm" />
+    <Content Include="bin\Help\LogonTopic5CreateAccount.htm" />
+    <Content Include="bin\Help\ManagerHeadingCodes.htm" />
+    <Content Include="bin\Help\ManagerHeadingCustomers.htm" />
+    <Content Include="bin\Help\ManagerHeadingInventory.htm" />
+    <Content Include="bin\Help\ManagerHeadingManagerHome.htm" />
+    <Content Include="bin\Help\ManagerHeadingManagers.htm" />
+    <Content Include="bin\Help\ManagerHeadingPOS.htm" />
+    <Content Include="bin\Help\ManagerHeadingSalesReports.htm" />
+    <Content Include="bin\Help\ManagerHomeTopic1Inventory.htm" />
+    <Content Include="bin\Help\ManagerHomeTopic2Managers.htm" />
+    <Content Include="bin\Help\ManagerHomeTopic3Customers.htm" />
+    <Content Include="bin\Help\ManagerHomeTopic4POS.htm" />
+    <Content Include="bin\Help\ManagerHomeTopic5Discounts.htm" />
+    <Content Include="bin\Help\ManagerHomeTopic6SalesReports.htm" />
+    <Content Include="bin\Help\ManagerHomeTopic7Logout.htm" />
+    <Content Include="bin\Help\ManagersTopic1ManagerSelection.htm" />
+    <Content Include="bin\Help\ManagersTopic2AddManager.htm" />
+    <Content Include="bin\Help\ManagersTopic3ModifyManager.htm" />
+    <Content Include="bin\Help\ManagersTopic4RemoveManager.htm" />
+    <Content Include="bin\Help\ManagersTopic5PrintManagers.htm" />
+    <Content Include="bin\Help\ManagersTopic6MainMenu.htm" />
+    <Content Include="bin\Help\POSTopic1CustomerSearchReset.htm" />
+    <Content Include="bin\Help\POSTopic2UseCustomer.htm" />
+    <Content Include="bin\Help\POSTopic3MainMenu.htm" />
+    <Content Include="bin\Help\SalesTopic1CustomerSearchReset.htm" />
+    <Content Include="bin\Help\SalesTopic2TimeFrame.htm" />
+    <Content Include="bin\Help\SalesTopic3PrintSales.htm" />
+    <Content Include="bin\Help\SalesTopic4MainMenu.htm" />
+    <Content Include="bin\Help\SalesTopic5CustomerSelection.htm" />
+    <Content Include="bin\Help\SalesTopic6SalesDisplay.htm" />
+    <Content Include="bin\Help\SalesTopic7StartDate.htm" />
+    <Content Include="bin\Help\SettingsTopic1ColorScheme.htm" />
+    <Content Include="bin\Help\SettingsTopic2Close.htm" />
+    <Content Include="bin\Help\SettingsTopic3OK.htm" />
+    <Content Include="bin\Help\ShopHeadingCart.htm" />
+    <Content Include="bin\Help\ShopHeadingShop.htm" />
+    <Content Include="bin\Help\ShopTopic1Search.htm" />
+    <Content Include="bin\Help\ShopTopic2Category.htm" />
+    <Content Include="bin\Help\ShopTopic3Price.htm" />
+    <Content Include="bin\Help\ShopTopic4Clear.htm" />
+    <Content Include="bin\Help\ShopTopic5Products.htm" />
+    <Content Include="bin\Help\ShopTopic6Quantity.htm" />
+    <Content Include="bin\Help\ShopTopic7AddToCart.htm" />
+    <Content Include="bin\Help\ShopTopic8Cart.htm" />
+    <Content Include="bin\Help\ShopTopic9Logout.htm" />
+    <Content Include="PlayAwayDatabase.db">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Shop.chm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icons\newPlayAwayLogo.ico" />
+    <Content Include="Icons\newPlayAwayLogo.png" />
+    <Content Include="Icons\playAwayLogo.ico" />
+    <Content Include="Icons\playAwayLogo.png" />
+    <Content Include="newPlayAwayLogo.ico" />
+    <None Include="Resources\bloodborne.jpg" />
+    <Content Include="Resources\cartImage.png" />
+    <Content Include="Resources\formIcon.ico" />
+    <Content Include="Resources\peek.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" />
+  <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+</Project>

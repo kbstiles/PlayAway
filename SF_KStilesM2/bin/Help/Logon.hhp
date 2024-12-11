@@ -1,0 +1,40 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Logon.chm
+Contents file=LogonView.hhc
+Default topic=HeadingLogonInput.htm
+Display compile progress=No
+Language=0x409 English (United States)
+Title=Logon View Help File
+
+
+[FILES]
+CreateAccountTopic1FirstLastAddress.htm
+CreateAccountTopic2CityZipStateEmailPhone.htm
+CreateAccountTopic3ValidUsernamePassword.htm
+CreateAccountTopic4ChallengeQuestionAnswers.htm
+CreateAccountTopic5ClearPage.htm
+CreateAccountTopic6Back.htm
+CreateAccountTopic7Next.htm
+ForgotPasswordTopic1Username.htm
+ForgotPasswordTopic2ChallengeQuestions.htm
+ForgotPasswordTopic3ChallengeAnswers.htm
+ForgotPasswordTopic4PasswordChange.htm
+ForgotPasswordTopic5ClearPage.htm
+ForgotPasswordTopic6Back.htm
+ForgotPasswordTopic7NextSubmit.htm
+HeadingCreateAccount.htm
+HeadingForgotPassword.htm
+HeadingLogonInput.htm
+HeadingSettings.htm
+LogonTopic1Login.htm
+LogonTopic2Settings.htm
+LogonTopic3Peek.htm
+LogonTopic4ForgotPassword.htm
+LogonTopic5CreateAccount.htm
+SettingsTopic1ColorScheme.htm
+SettingsTopic2Close.htm
+SettingsTopic3OK.htm
+
+[INFOTYPES]
+

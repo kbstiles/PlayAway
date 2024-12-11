@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800025">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Shop">
+		<param name="Local" value="ShopHeadingShop.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Search">
+			<param name="Local" value="ShopTopic1Search.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Category">
+			<param name="Local" value="ShopTopic2Category.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Price Filter">
+			<param name="Local" value="ShopTopic3Price.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Clear">
+			<param name="Local" value="ShopTopic4Clear.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Products">
+			<param name="Local" value="ShopTopic5Products.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Quantity">
+			<param name="Local" value="ShopTopic6Quantity.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Add To Cart">
+			<param name="Local" value="ShopTopic7AddToCart.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Cart">
+			<param name="Local" value="ShopTopic8Cart.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Logout">
+			<param name="Local" value="ShopTopic9Logout.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Cart">
+		<param name="Local" value="ShopHeadingCart.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Order List">
+			<param name="Local" value="CartTopic1OrderList.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Continue Shopping">
+			<param name="Local" value="CartTopic2ContinueShopping.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Checkout">
+			<param name="Local" value="CartTopic3Checkout.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Remove Item">
+			<param name="Local" value="CartTopic4RemoveItem.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Clear Cart">
+			<param name="Local" value="CartTopic5ClearCart.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Modify Quantity">
+			<param name="Local" value="CartTopic10ModifyQuantity.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Discount Code">
+			<param name="Local" value="CartTopic6DiscountCode.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="VISA/MasterCard">
+			<param name="Local" value="CartTopic7CCNum.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="CCV">
+			<param name="Local" value="CartTopic8CCV.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Exp">
+			<param name="Local" value="CartTopic9Exp.htm">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

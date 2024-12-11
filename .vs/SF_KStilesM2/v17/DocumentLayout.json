@@ -1,0 +1,753 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|c:\\users\\kades\\source\\repos\\24sp-233x-kadestiles\\sf_kstilesm2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmsalesreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmsalesreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmshoppos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmshoppos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmcartpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmcartpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmsalesreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmsalesreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmmanagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmmanagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmmanagerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmmanagerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmmanagerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmmanagerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmpasswordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmpasswordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmpasswordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmpasswordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmlogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmlogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmlogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmlogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\clsdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\clsdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\clscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\clscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\clshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\clshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\clslogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\clslogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\clssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\clssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\clscalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\clscalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\clsorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\clsorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\clsorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\clsorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\clsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\clsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmmanagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmmanagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmshoppos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmshoppos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SF_KStilesM2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmcartpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmcartpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\sf_kstilesm2\\frmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EEC803-366E-4A6C-8404-9820938325C0}|SF_KStilesM2\\SF_KStilesM2.csproj|solutionrelative:sf_kstilesm2\\frmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 40,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "clsSQL.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsSQL.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\clsSQL.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsSQL.cs",
+              "RelativeToolTip": "SF_KStilesM2\\clsSQL.cs",
+              "ViewState": "AQIAAHIJAAAAAAAAAAASwBEGAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:26:27.803Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "clsLogon.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsLogon.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\clsLogon.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsLogon.cs",
+              "RelativeToolTip": "SF_KStilesM2\\clsLogon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:58:01.095Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsValidation.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsValidation.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\clsValidation.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsValidation.cs",
+              "RelativeToolTip": "SF_KStilesM2\\clsValidation.cs",
+              "ViewState": "AQIAAJEEAAAAAAAAAAAjwLMDAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:36:14.832Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "clsImage.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsImage.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\clsImage.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsImage.cs",
+              "RelativeToolTip": "SF_KStilesM2\\clsImage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:44:42.045Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "clsOrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsOrderDetails.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\clsOrderDetails.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsOrderDetails.cs",
+              "RelativeToolTip": "SF_KStilesM2\\clsOrderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:18:06.629Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "clsOrders.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsOrders.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\clsOrders.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsOrders.cs",
+              "RelativeToolTip": "SF_KStilesM2\\clsOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:19:40.398Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsCalculations.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsCalculations.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\clsCalculations.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsCalculations.cs",
+              "RelativeToolTip": "SF_KStilesM2\\clsCalculations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:38:29.626Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsHTML.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsHTML.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\clsHTML.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsHTML.cs",
+              "RelativeToolTip": "SF_KStilesM2\\clsHTML.cs",
+              "ViewState": "AQIAANcCAAAAAAAAAAAswOECAADFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:55:12.204Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsCategory.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsCategory.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\clsCategory.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsCategory.cs",
+              "RelativeToolTip": "SF_KStilesM2\\clsCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:38:02.874Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsDiscount.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\clsDiscount.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\clsDiscount.cs",
+              "RelativeToolTip": "SF_KStilesM2\\clsDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:00:38.869Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmLogon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmLogon.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmLogon.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmLogon.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmLogon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:46:49Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmLogon.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmLogon.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmLogon.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmLogon.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmLogon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:46:55.616Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmSettings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmSettings.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmSettings.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmSettings.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:29:36.431Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmSettings.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmSettings.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmSettings.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmSettings.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmSettings.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:14:14.29Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmCreateAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCreateAccount.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmCreateAccount.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCreateAccount.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmCreateAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:35:05.315Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmCreateAccount.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCreateAccount.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmCreateAccount.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCreateAccount.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmCreateAccount.cs",
+              "ViewState": "AQIAANYBAAAAAAAAAAAmwAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:36:07.512Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmPasswordReset.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmPasswordReset.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmPasswordReset.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmPasswordReset.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmPasswordReset.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:29:25.65Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmPasswordReset.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmPasswordReset.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmPasswordReset.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmPasswordReset.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmPasswordReset.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAcwFIAAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:17:17.292Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmShop.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmShop.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmShop.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmShop.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmShop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:41:05.607Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmShop.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmShop.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmShop.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmShop.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmShop.cs",
+              "ViewState": "AQIAAFUCAAAAAAAAAAAAAHACAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:50:06.637Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmCart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCart.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmCart.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCart.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmCart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:24:44.074Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCart.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCart.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmCart.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCart.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmCart.cs",
+              "ViewState": "AQIAAEcCAAAAAAAAAAAIwPABAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:31:26.47Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmManagerHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmManagerHome.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmManagerHome.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmManagerHome.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmManagerHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:17:52.246Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmManagerHome.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmManagerHome.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmManagerHome.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmManagerHome.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmManagerHome.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwD8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:33:04.642Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmInventory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmInventory.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmInventory.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmInventory.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmInventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:47:07.022Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmInventory.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmInventory.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmInventory.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmInventory.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmInventory.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAwKMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:47:39.28Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmManagers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmManagers.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmManagers.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmManagers.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmManagers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:50:55.588Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmManagers.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmManagers.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmManagers.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmManagers.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmManagers.cs",
+              "ViewState": "AQIAAM8EAAAAAAAAAAAcwKIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:51:01.854Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmCustomers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCustomers.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmCustomers.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCustomers.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmCustomers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:51:45.015Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCustomers.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCustomers.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmCustomers.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCustomers.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmCustomers.cs",
+              "ViewState": "AQIAAMwEAAAAAAAAAAAcwKEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:51:47.531Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmPOS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmPOS.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmPOS.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmPOS.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmPOS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:59:53.325Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmPOS.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmPOS.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmPOS.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmPOS.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmPOS.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAqwOsAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:52:30.693Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmShopPOS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmShopPOS.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmShopPOS.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmShopPOS.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmShopPOS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:50:21.003Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmShopPOS.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmShopPOS.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmShopPOS.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmShopPOS.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmShopPOS.cs",
+              "ViewState": "AQIAAFMCAAAAAAAAAAAuwG8CAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:36:04.916Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmCartPOS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCartPOS.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmCartPOS.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCartPOS.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmCartPOS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:30:25.548Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCartPOS.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCartPOS.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmCartPOS.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCartPOS.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmCartPOS.cs",
+              "ViewState": "AQIAADICAAAAAAAAAAAqwFACAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:32:09.895Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmCodes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCodes.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmCodes.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCodes.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmCodes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:52:55.449Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCodes.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCodes.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmCodes.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmCodes.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmCodes.cs",
+              "ViewState": "AQIAAEwDAAAAAAAAAAAAAK4DAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:52:58.871Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSalesReports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmSalesReports.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmSalesReports.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmSalesReports.cs [Design]",
+              "RelativeToolTip": "SF_KStilesM2\\frmSalesReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:53:35.215Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSalesReports.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmSalesReports.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\frmSalesReports.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\frmSalesReports.cs",
+              "RelativeToolTip": "SF_KStilesM2\\frmSalesReports.cs",
+              "ViewState": "AQIAAEQBAAAAAAAAAAAiwE8BAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:53:39.122Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\Program.cs",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\Program.cs",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\Program.cs",
+              "RelativeToolTip": "SF_KStilesM2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:13:00.356Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cae83480-7d78-4894-abd2-8c395ec0b0c7}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SF_KStilesM2",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\SF_KStilesM2.csproj",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\SF_KStilesM2.csproj",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\SF_KStilesM2.csproj",
+              "RelativeToolTip": "SF_KStilesM2\\SF_KStilesM2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T15:35:13.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\App.config",
+              "RelativeDocumentMoniker": "SF_KStilesM2\\App.config",
+              "ToolTip": "C:\\Users\\KadeS\\source\\repos\\24SP-233x-KadeStiles\\SF_KStilesM2\\App.config",
+              "RelativeToolTip": "SF_KStilesM2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-07T15:26:30.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

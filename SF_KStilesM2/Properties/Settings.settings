@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SF_KStilesM2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mainBack" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 128, 0</Value>
+    </Setting>
+    <Setting Name="boxBack" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 115, 63</Value>
+    </Setting>
+    <Setting Name="infoBack" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="mainText" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 210, 133</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
